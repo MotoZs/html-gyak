@@ -1,0 +1,25 @@
+.container{
+    height: 30vh;
+    border: 1px solid black;
+}
+
+.container>.row>.col, .container>.row{
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.c2{
+    height: 30vh;
+    background-color: lightblue;
+    color: white;
+    border: none;
+}
+
+.c2>.r2>.col2, .c2>.r2{
+    margin: 10px;
+    border: none;
+}
+
+.c2>.r2>.col2{
+    background-color: blue;
+}
