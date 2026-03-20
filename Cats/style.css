@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+main{
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+}
+
+h5{
+    padding: 8px;
+}
+
+.szoveg{
+    min-height: 28%;
+}
+
+.gomb{
+    margin-top: 10px;
+}
+
+.card{
+    margin: 0;
+}
+
+nav{
+    margin: 10px;
+    transform: translateY(10px);
+}
+
+.sorok{
+    margin: 10px;
+    text-align: justify;
+}
+
