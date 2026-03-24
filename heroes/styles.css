@@ -1,0 +1,49 @@
+main{
+    width: 65%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.nav-link{
+    color: white;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+li{
+    color: white;
+}
+
+ul{
+    color: red;
+}
+
+main>p{
+    color: white;
+    text-align: justify;
+}
+
+.card{
+    text-align: justify;
+}
+
+.card{
+    margin: 10px;
+}
+
+.card>img{
+    padding: 10px;
+}
+
+.card>h4{
+    margin: 0 10px;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
